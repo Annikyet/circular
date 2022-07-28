@@ -1,0 +1,15 @@
+/Users/annika/Source/codeworks/circular/bin/Debug/net6.0/circular
+/Users/annika/Source/codeworks/circular/bin/Debug/net6.0/circular.deps.json
+/Users/annika/Source/codeworks/circular/bin/Debug/net6.0/circular.runtimeconfig.json
+/Users/annika/Source/codeworks/circular/bin/Debug/net6.0/circular.dll
+/Users/annika/Source/codeworks/circular/bin/Debug/net6.0/circular.pdb
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.csproj.AssemblyReference.cache
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.AssemblyInfoInputs.cache
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.AssemblyInfo.cs
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.csproj.CoreCompileInputs.cache
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.dll
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/refint/circular.dll
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.pdb
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/circular.genruntimeconfig.cache
+/Users/annika/Source/codeworks/circular/obj/Debug/net6.0/ref/circular.dll
